@@ -1,1 +1,1 @@
-# bigO-16.4.2020-
+there are the basic code which are example of complexity of various programme
